@@ -1,0 +1,74 @@
+SESSION05
+[Bài thực hành 5] Xây dựng chiến dịch truyền thông tuyển sinh khóa học
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Kỹ năng PROMPTING với AI
+Họ và tên: LƯƠNG THANH THƯ
+
+
+1. Sơ đồ chuỗi prompt
+[Thông tin cố định]
+   
+P1: Chân dung khách hàng --> Output 1   
+P2: Thông điệp chính (dùng Output 1) --> Output 2   
+P3: Lịch 7 ngày (dùng Output 1+2) --> Output 3   
+P4: 2 bài FB + 2 kịch bản TikTok (dùng Output 1+2+3) --> Output 4
+P5: Kiểm tra nhất quán (dùng Output 1+2+3+4) --> Báo cáo
+
+2. Chân dung khách hàng
+Minh, 18 tuổi, sinh viên năm nhất, chưa biết code.
+Nhu cầu: muốn có kỹ năng đáng giá sớm (AI, dữ liệu, tự động hóa).
+Nỗi lo: sợ code khó, sợ học một mình rồi bỏ, không biết bắt đầu từ đâu.
+Thói quen: lướt TikTok giải trí, dùng Facebook xem nhóm sinh viên.
+Điều khiến đăng ký: lộ trình rõ, thấy “người mới cũng làm được”.
+
+3. Thông điệp chính
+“Chưa biết gì về code? 8 tuần nữa, bạn viết được chương trình Python đầu tiên của mình.”
+
+4. Lịch đăng 7 ngày
+Ngày		Kênh			Chủ đề				CTA
+1		TikTok			Code không đáng sợ		Theo dõi
+2		Facebook		Giới thiệu khóa 8 tuần		Đăng ký tư vấn
+3		TikTok			Lộ trình 8 tuần			Bình luận
+4		Facebook		Giải đáp 3 nỗi lo		Đăng ký tư vấn
+5		TikTok			Demo chương trình đầu tiên	Đăng ký tư vấn
+6		Facebook		Nhắc thông điệp + hỏi đáp	Đăng ký tư vấn
+7		Cả hai			Nhắc cuối chiến dịch		Đăng ký ngay
+
+5. Hai bài Facebook
+
+Bài 1 (Ngày 2):
+🐍 Chưa biết gì về code? Bắt đầu từ đây!
+Khóa Python cơ bản dành cho sinh viên năm nhất, học trong 8 tuần, đi từ dòng code đầu tiên.
+🎯 Sau 8 tuần, bạn viết được chương trình Python đầu tiên của mình.
+👉 Đăng ký tư vấn: [link]
+
+Bài 2 (Ngày 4):
+❓ 3 nỗi lo khi học lập trình:
+1️⃣ Chưa biết gì có theo kịp không? → Bắt đầu từ con số 0.
+2️⃣ Học lâu thì chán → Chỉ 8 tuần.
+3️⃣ Không biết bắt đầu từ đâu → Có lộ trình từng tuần.
+8 tuần nữa, bạn viết được chương trình Python đầu tiên của mình.
+👉 Đăng ký tư vấn: [link]
+
+6. Hai kịch bản TikTok
+
+Kịch bản 1 (~35 giây): “Code không đáng sợ”
+0-5s: Bạn trẻ nhìn màn hình code, hoang mang. Thoại: “Chưa biết gì về code, có học nổi không?”
+5-15s: Gõ một dòng Python đơn giản. Thoại: “Dòng code đầu tiên chỉ ngắn thế này thôi.”
+15-28s: Chữ hiện “Python cơ bản, 8 tuần, sinh viên năm nhất”. Thoại: “Khóa dành cho người mới.”
+28-35s: Thoại: “8 tuần nữa, bạn viết được chương trình Python đầu tiên. Đăng ký tư vấn ở link bio!”
+
+Kịch bản 2 (~40 giây): “Chương trình đầu tiên của bạn”
+0-6s: Vẫy tay chào. Thoại: “Hôm nay mình viết chương trình Python đầu tiên.”
+6-20s: Quay màn hình gõ lệnh, bấm chạy, máy chào lại. Thoại: “Gõ vài dòng, bấm chạy, máy tính chào bạn!”
+20-32s: Chữ hiện “Ai cũng bắt đầu như vậy”. Thoại: “Ai cũng bắt đầu từ chương trình nhỏ thế này.”
+32-40s: Thoại: “Khóa Python cơ bản 8 tuần cho sinh viên năm nhất. Đăng ký tư vấn ở link bio!”
+
+7. Báo cáo kiểm tra nhất quán
+Thông tin khóa học: đạt, giữ nguyên Python cơ bản, 8 tuần, sinh viên năm 1.
+Chân dung <=> thông điệp: đạt, thông điệp đánh đúng nỗi sợ “chưa biết gì”.
+Thông điệp <=> lịch ↔ bài viết: đạt, mọi nội dung bám “người mới, 8 tuần, chương trình đầu tiên”.
+Giọng điệu: đạt, thân thiện, hợp độ tuổi 18-20.
+CTA: nhất quán là “Đăng ký tư vấn”, đúng mục tiêu 100 lượt.
+Lưu ý: không tự thêm học phí, ưu đãi, địa chỉ vì đề không cung cấp.
